@@ -1,6 +1,6 @@
 # SchedMed 
 <p align="center">
-<img src=""> 
+<img src="https://github.com/Ananya-Jha1208/SchedMed/blob/master/images/logo.png"> 
 </p>  
 <h2 align="center">
     A Complete Solution for Your Healthcare Needs
