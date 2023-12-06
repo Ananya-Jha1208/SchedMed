@@ -1,6 +1,6 @@
 # SchedMed 
 <p align="center">
-<img src="https://github.com/aashayk18/PAWSTER/blob/master/assets/readmeImg.png"> 
+<img src=""> 
 </p>  
 <h2 align="center">
     A Complete Solution for Your Healthcare Needs
