@@ -10,10 +10,9 @@
     Author: <a href="https://github.com/Ananya-Jha1208">Ananya M. Jha</a>
 </h3>
 
-##  Description
+## 💊 Description
 
 Welcome to **SchedMed**! SchedMed is a medicine reminder and tracker application that reminds users to take their medicines by sending them timely alarms and notifications. 
-
 
 
 ## ⭐ Features
@@ -28,4 +27,4 @@ Welcome to **SchedMed**! SchedMed is a medicine reminder and tracker application
 - ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 - ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-
+##
