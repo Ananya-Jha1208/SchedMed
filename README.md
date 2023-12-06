@@ -18,9 +18,9 @@ Welcome to **SchedMed**! SchedMed is a medicine reminder and tracker application
 
 ## ⭐ Features
 
-- **Submit** . 
-- **Browse** . 
-- **Share** .
+- **Create** multiple medication alarms with customizable dosages and descriptions. 
+- **Personalize** reminders with images, audio instructions, or familiar voices for a motivating medication schedule. 
+- **Receive** SMS notifications for missed doses, ensuring reliable support for consistent medication adherence.
 
 ## 🔧 Used Technologies
 
